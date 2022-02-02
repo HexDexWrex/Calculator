@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn19">.</string>
+    <string name="btn16">0</string>
+    <string name="txtNumDis">3.145</string>
+    <string name="btn18">+</string>
+    <string name="btn17">=</string>
+    <string name="btn15">-</string>
+    <string name="btn14">3</string>
+    <string name="btn13">2</string>
+    <string name="btn12">1</string>
+    <string name="btn11">*</string>
+    <string name="btn10">6</string>
+    <string name="btn9">5</string>
+    <string name="btn8">4</string>
+    <string name="btn7">/</string>
+    <string name="btn6">9</string>
+    <string name="btn5">8</string>
+    <string name="btn4">7</string>
+    <string name="btn3">%</string>
+    <string name="btn2">( )</string>
+    <string name="btn1">AC</string>
+    <string name="NumDisp">3.145</string>
+
+</resources>
